@@ -1,0 +1,15 @@
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+F:\Project\DOTNET\Foundamental-C#\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll
