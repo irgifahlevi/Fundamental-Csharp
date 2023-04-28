@@ -1,0 +1,15 @@
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.csproj.AssemblyReference.cache
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.AssemblyInfoInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.AssemblyInfo.cs
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.csproj.CoreCompileInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\bin\Debug\net6.0\ClassesObjects.exe
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\bin\Debug\net6.0\ClassesObjects.deps.json
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\bin\Debug\net6.0\ClassesObjects.runtimeconfig.json
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\bin\Debug\net6.0\ClassesObjects.dll
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\bin\Debug\net6.0\ClassesObjects.pdb
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.dll
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\refint\ClassesObjects.dll
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.pdb
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ClassesObjects.genruntimeconfig.cache
+F:\Project\DOTNET\Foundamental-C#\ClassesObjects\obj\Debug\net6.0\ref\ClassesObjects.dll
