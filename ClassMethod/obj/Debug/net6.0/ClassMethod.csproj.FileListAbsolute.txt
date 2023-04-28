@@ -1,0 +1,15 @@
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.csproj.AssemblyReference.cache
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.AssemblyInfoInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.AssemblyInfo.cs
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.csproj.CoreCompileInputs.cache
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\bin\Debug\net6.0\ClassMethod.exe
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\bin\Debug\net6.0\ClassMethod.deps.json
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\bin\Debug\net6.0\ClassMethod.runtimeconfig.json
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\bin\Debug\net6.0\ClassMethod.dll
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\bin\Debug\net6.0\ClassMethod.pdb
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.dll
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\refint\ClassMethod.dll
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.pdb
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ClassMethod.genruntimeconfig.cache
+F:\Project\DOTNET\Foundamental-C#\ClassMethod\obj\Debug\net6.0\ref\ClassMethod.dll
